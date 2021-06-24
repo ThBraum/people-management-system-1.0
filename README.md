@@ -18,6 +18,6 @@ We may store information such as:
  
  
  
- ##### note1: If you want to initialize the code via terminal - or even make it easier to run - you can create a Fat JAR. After that all you need to do is go into the ` target ` folder using some terminal and type ` java -jar personapi-0.0.1-SNAPSHOT.jar `. This command will initialize ` http://localhost:8080/people `. To enter ur data you can use some tool like [Postman](https://web.postman.co).
+ ##### note1: If you want to initialize the code via terminal - or even make it easier to run - you can also create a Fat JAR. After that all you need to do is go into the ` target ` folder using some terminal and type ` java -jar personapi-0.0.1-SNAPSHOT.jar `. This command will initialize ` http://localhost:8080/people `. To enter ur data you can use some tool like [Postman](https://web.postman.co).
  
  ##### note2: This is version 1.0 - my first try in another words -, a version 2.0 with improvements may be coming soon. I'm studying for this :smile:
